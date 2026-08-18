@@ -3,7 +3,7 @@
 
 A self-hosted, AI-powered email inbox with custom domains, powered by Cloudflare
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hieunc229/mailflare)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/morefreefg/mailflare)
 
 ![](/screenshot.png)
 
@@ -117,7 +117,7 @@ curl -X POST http://localhost:3000/api/seed
 ### One-click Cloudflare deploy
 
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hieunc229/mailflare)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/morefreefg/mailflare)
 
 Publish this repository to GitHub, then replace `hieunc229/mailflare` in the button at the top of this README with the public repository path.
 
